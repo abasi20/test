@@ -1,0 +1,6 @@
+2020-09-17/13:41:35 test_log.go 28 main.main[DBG] seelog debug
+2020-09-17/13:41:35 test_log.go 10 main.writ[DBG] dddddd
+2020-09-17/13:42:47 [DBG] seelog debug
+2020-09-17/13:42:47 [DBG] dddddd
+2020-09-17/13:43:26 [DBG] seelog debug
+2020-09-17/13:43:26 [DBG] dddddd

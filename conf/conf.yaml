@@ -1,0 +1,11 @@
+
+
+
+tcpport: 443
+ssl: true
+httpport: 443
+mysqlpath: 127.0.0.1
+mysqlport: 443
+mysqluser: user
+mysqlpwd: password
+table: sandbox
